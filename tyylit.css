@@ -1,0 +1,42 @@
+header{
+    font-size: large;
+    color: black;
+    text-align: center;
+    margin: 45px;
+}
+
+article{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    
+}
+
+body{
+    background-color: #efefef;
+}
+
+footer{
+    color: black;
+    background-color: #a9a9a9;
+}
+
+nav{
+    margin: 30px;
+    
+}
+
+aside{
+    margin: 60px;
+
+}
+
+h1{
+    margin-bottom: 30px;
+}
+
+h2{
+    margin-bottom: 30px;
+}
+
