@@ -5,6 +5,11 @@ header{
     margin: 45px;
 }
 
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+  
 article{
     margin-top: 50px;
     margin-left: 50px;
