@@ -51,6 +51,14 @@ hr.new1{
     border-top: 2px solid black;
 }
 
+a:link{
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
 input[type=text], select, textarea {
     width: 100%; 
     padding: 10px; 
