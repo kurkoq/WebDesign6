@@ -91,4 +91,9 @@ form{
     padding: 30px;
 }
 
+iframe{
+    margin: 60px;
+    width: auto;
+}
+
 
