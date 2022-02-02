@@ -97,4 +97,22 @@ iframe{
     width: auto;
 }
 
+img[src*="facebook"]{
+    position: fixed;
+    right: 240px;
+    bottom: 10px;
+}
+
+img[src*="Instagram"]{
+    position: fixed;
+    right: 170px;
+    bottom: 10px;
+}
+
+img[src*="south-africa"]{
+    position: fixed;
+    right: 100px;
+    bottom: 10px;
+}
+
 
