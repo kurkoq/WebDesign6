@@ -12,10 +12,8 @@ header{
   }
   
 article{
-    margin-top: 50px;
-    margin-left: 10px;
-    margin-right: 50px;
-    margin-bottom: 50px;
+    margin-top: 70px;
+    margin-bottom: 130px;
     
 }
 
@@ -27,9 +25,11 @@ footer{
     color: black;
     background-color: #a9a9a9;
     text-align: center;
-    position: relative;
+    position: fixed;
     bottom: 0;
+    left: 0;
     width: 100%;
+    height: 80px;
     
 }
 
@@ -40,7 +40,7 @@ nav{
 
 aside{
     margin: 60px;
-
+    margin-bottom: 130px;
 }
 
 h1{
@@ -89,6 +89,7 @@ input[type=submit]:hover {
 
 form{
     padding: 30px;
+    margin-bottom: 130px;
 }
 
 iframe{
