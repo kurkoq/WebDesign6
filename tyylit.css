@@ -9,8 +9,8 @@ header{
 }
 
 .navbar-nav > li{
-    padding-left:90px;
-    padding-right:80px;
+    padding-left:50px;
+    padding-right:70px;
     
   }
 
@@ -26,16 +26,14 @@ article{
     
 }
 
-article1{
-    margin-top: 70px;
-    margin-bottom: 160px;
-    
+.testi1{
+    text-align: center;
+    position: relative;
 }
 
 body{
     background-color: #efefef;
-    position: relative;
-    z-index: 2;
+
 }
 
 footer{
