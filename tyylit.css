@@ -124,6 +124,7 @@ iframe{
         width: auto;
         height: auto;
         object-fit: fill;
+        padding-bottom: 20px;
         
     }
         /* Artikkeli */
