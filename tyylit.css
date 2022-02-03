@@ -9,7 +9,7 @@ header{
 }
 
 .navbar-nav > li{
-    padding-left:50px;
+    padding-left:60px;
     padding-right:70px;
     
   }
@@ -20,15 +20,16 @@ header{
 
   }
 
-article{
-    margin-top: 70px;
-    margin-bottom: 160px;
+.testi2{
+    margin-top: -30px;
+    text-align: center;
     
 }
 
 .testi1{
     text-align: center;
     position: relative;
+    margin-top: 90px;
 }
 
 body{
@@ -56,7 +57,7 @@ nav{
 }
 
 aside{
-    margin: 60px;
+    margin-top: -25px;
     margin-bottom: 130px;
 
 }
