@@ -98,3 +98,32 @@ iframe{
 }
 
 
+/* Inspiration html */
+    /* Alku */
+    .firstimages {
+        width: auto;
+        height: auto;
+        object-fit: fill;
+        
+    }
+        /* Artikkeli */
+    .artikkeli
+    {
+        padding-bottom: 30px;
+        
+    } 
+    
+    .brlarge {
+        display: block;
+        margin-bottom: 2em;
+    }
+    
+        /* Artikkeli lopetus */
+    
+        /* Neljä kuvaa */
+    /* Neljä kuvaa */
+
+    .imgfluidkuvat
+    {
+    object-fit: cover;
+    }
