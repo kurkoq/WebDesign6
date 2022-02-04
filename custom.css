@@ -66,6 +66,9 @@ width: 210px;
     .navbar-img {
         margin-left: -40px;
     }
+    .threepics{
+        padding-top: 10px;
+    }
     .footer p{
         text-align: center;
     }
@@ -79,6 +82,10 @@ width: 210px;
     }
     .some {
         padding-right: 10%;
+    }
+    .fourpics
+    {
+        padding-top: 10px;
     }
 
 }
