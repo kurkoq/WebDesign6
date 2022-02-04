@@ -27,6 +27,11 @@ body
     padding-bottom: 100px;
 }
 
+.gapa200
+{
+    padding-bottom: 200px;
+}
+
 .gapya
 {
     padding-top: 100px;
@@ -208,3 +213,26 @@ iframe{
 }
 
 /* Contact omia loppuu */
+
+
+/* Our story */
+
+.card{
+   padding-left: 50px;
+   margin-left: 30px;
+   margin-top: 10px;
+   background-color: #efefef;
+   border: 1px solid black;
+   
+}
+.card-img-top{
+    padding: 0px;
+    margin-left: -25px;
+    margin-bottom: -20px;
+    
+}
+.presentation_cards{
+    padding-left: 100px;
+    padding-top: 50px;
+    
+}
