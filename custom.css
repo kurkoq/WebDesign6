@@ -66,6 +66,9 @@ width: 210px;
     .navbar-img {
         margin-left: -40px;
     }
+    .footer p{
+        text-align: center;
+    }
     .fa {
         color: black;
         font-size: xx-large!important;
@@ -103,6 +106,11 @@ footer .container
     display: grid;
 }
 
+.fcontact
+{
+    text-align: center;
+}
+
 .copyright 
 {
 padding-top: 30px;
@@ -112,7 +120,7 @@ text-align: center;
 .some
 {
     text-align: center;
-    padding-left: 10%;
+    /* padding-left: 10%; */
 }
 .fa
 {
