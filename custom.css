@@ -6,7 +6,7 @@ body
     align-content: flex-end;
     min-height: 100vh;
 }
-
+/*BODY vaikuttaa myös FOOTERIIN*/
 
 /* Välejä*/
 .gap50
@@ -38,7 +38,6 @@ body
 {
     background: #efefef!important;
     box-shadow: 0 2px 2px;
-    
 }
 
 .navbar-nav
@@ -81,7 +80,7 @@ width: 210px;
 
 }
 
-/*Nav bar loppu*/
+/*NAVBAR loppu*/
 
 
 
@@ -140,5 +139,6 @@ color: #833AB4;
 color: 	#E60023;
 }
 
+/*FOOTER loppuu*/
 
 /* Inspiraatiosivun omia */
