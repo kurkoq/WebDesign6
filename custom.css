@@ -157,3 +157,49 @@ color: 	#E60023;
 /*FOOTER loppuu*/
 
 /* Inspiraatiosivun omia */
+
+
+
+/*Contact omia alkaa */
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 10px; 
+    border: 1px solid #a9a9a9; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 8px; 
+    margin-bottom: 18px; 
+    resize: vertical
+}
+
+input[type=text], select {
+    background-color: #ffff;
+}
+
+input[type=submit] {
+    color: black;
+    background-color: #ebd5d5;
+    padding: 12px 20px;
+    border: 1px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+input[type=submit]:hover {
+    background-color: #a9a9a9;
+}
+
+form{
+    padding: 30px;
+}
+
+iframe{
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: auto;
+    position: relative;
+}
+
+/* Contact omia loppuu */
