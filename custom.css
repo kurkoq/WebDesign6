@@ -76,6 +76,13 @@ width: 210px;
     .navbar-img {
         margin-left: -40px;
     }
+    .navbar-nav{
+        padding-right: 14%;
+    }
+    .mynav a
+    {
+        margin-right: 37px;
+    }
     .threepics{
         padding-top: 10px;
     }
@@ -85,13 +92,7 @@ width: 210px;
     .fa {
         color: black;
         font-size: xx-large!important;
-        margin: 10px;
-        padding-left: 14%;
         padding-top: 20px;
-        text-align: center;
-    }
-    .some {
-        padding-right: 10%;
     }
     .fourpics
     {
