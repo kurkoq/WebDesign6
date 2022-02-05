@@ -130,13 +130,15 @@ footer .container
 
 .copyright 
 {
-padding-top: 30px;
+padding-top: 0px;
 text-align: center;
 }
 
 .some
 {
     text-align: center;
+    margin-left: -15px;
+    
     /* padding-left: 10%; */
 }
 .fa
