@@ -53,7 +53,7 @@ body
 .navbar-nav
 {
     width: 100%;
-    padding-right: 224px;
+    padding-right: 11%;
 }
 
 .navbar-img /*Logo*/
@@ -73,26 +73,36 @@ width: 210px;
 
 @media only screen and (max-width: 1140px) /*kun ruutu pienenee*/
 {
-    .navbar-img {
+    .navbar-img 
+    {
         margin-left: -40px;
     }
-    .threepics{
+
+    .navbar-nav
+    {
+        padding-right: 14%;
+    }
+
+    .mynav a 
+    {
+        margin-right: 37px;
+    }
+
+    .threepics
+    {
         padding-top: 10px;
     }
-    .footer p{
+    .footer p
+    {
         text-align: center;
     }
-    .fa {
+    .fa 
+    {
         color: black;
         font-size: xx-large!important;
-        margin: 10px;
-        padding-left: 14%;
         padding-top: 20px;
-        text-align: center;
     }
-    .some {
-        padding-right: 10%;
-    }
+
     .fourpics
     {
         padding-top: 10px;
@@ -137,7 +147,7 @@ text-align: center;
 .some
 {
     text-align: center;
-    margin-left: -15px;
+    /* margin-left: -15px; */
     /* padding-left: 10%; */
 }
 .fa
